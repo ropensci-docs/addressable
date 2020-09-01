@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "22e0bfe6b16e07e3a6e36aa74716e319c6f057f9",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-09-01 18:41:42",
+    "files": 4,
+    "merge": false,
+    "message": "change to ropensci github acct\n"
+  },
+  "remote": "https://github.com/ropensci/addressable",
+  "pkg": "addressable"
+}
